@@ -13,4 +13,3 @@ elif num > 1 :
         print(num, "is not a prime numver")
     else:
         print(num, "is a primer number")
-Dispose d’un menu contextuel
